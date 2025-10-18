@@ -237,7 +237,7 @@ const UserDashboard: React.FC = () => {
     </div>
   </div>
 </div>
-
+~~
             
             <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 border border-purple-500/20 rounded-xl p-6 hover:bg-purple-500/20 transition-all duration-300 cursor-pointer group">
               <div className="flex items-center space-x-3">
